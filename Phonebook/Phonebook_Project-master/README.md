@@ -15,6 +15,5 @@ The objective of this project was to build a web application known as Phonebook 
 ![6](https://user-images.githubusercontent.com/59922056/179366385-7f1bb7a0-fb1c-4fcd-8711-55d5f4b44f09.jpg)
 
 
-#####  MARK A 🌟 ON THE REPOSITORY..!!😅
 
 
